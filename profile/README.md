@@ -33,19 +33,6 @@ Welcome to **Arisecraft**, a leading software development and digital solutions 
 
 ---
 
-## 🔍 Find us via Search (SEO Keywords)
-
-We are actively listed under:
-
-- IT companies in Udupi  
-- Software development company in Udupi  
-- Custom software companies near Udupi  
-- UI/UX design agency in Udupi  
-- Mobile app development in Udupi  
-- Website development & SEO agency  
-
----
-
 ## 🚀 Let's Build Together
 
 If you're a startup, business, or enterprise looking for a trusted technology partner — we’d love to collaborate!
